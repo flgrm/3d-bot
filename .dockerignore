@@ -1,0 +1,14 @@
+.vscode
+.dockerignore
+*.env
+.git
+.gitignore
+.gitlab-ci.yml
+__pycache__
+README.md
+workspace.env.encrypted
+docker-compose
+Dockerfile
+example-custom-script.py
+LICENSE
+workspace.env*
